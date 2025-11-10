@@ -18,6 +18,8 @@ My general background:
 - Build watches in my free time; generally limited to assembly + modding. Tried to build an NH38 movement from parts once and it drove me insane and worked for 2 days. Very poor ROI
 
 Seattle, WA
+
 Engineer at Gradial
+
 oscarpenningfleet@gmail.com
 
