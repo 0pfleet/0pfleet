@@ -3,11 +3,18 @@
 **Engineer who likes to be bad at a wide array of different topics**
 
 I'm currently working on:
-- Trying to get better at woodworking with hand tools. Building cribbage boards.
+- Trying to get better at woodworking with hand tools. Failing at dovetails. Building cribbage boards.
+- Trying to automate my weekly Fooda order
 - Learning Rust and embedded programming (micro:bit, Raspberry Pi Pico, ESP32)
 - Autonomous rover with CV (using the IMX500)
 - Trying to fix a Bulova Accutron Spaceview
-- Working at [Gradial](https://www.gradial.com/) building AI Agents for marketing ops. RE for our entire Sitecore product (XM Cloud, Content Hub, etc.) + do lots of work related to design system data representation + agent framework (which is bleeding into an OS-style paradigm!)
+- Working at [Gradial](https://www.gradial.com/) building AI Agents for marketing ops. RE for the New Page problem (how can an AI agent reliably construct ~90% complete webpages of arbitrary complexity from a wide array of source types into a diverse set of customer environements, each with their own quirks and limitations) + do lots of work related to Sitecore integration, design system data representation, and agent framework.
+
+Reading List:
+- Aladdin's Lamp by John Freely (book on the flow of math and science from Greece -> Arabic peninsula -> North Africa -> Iberian Peninsula -> Italy during the Renaissance, how these translations saved knowledge that was lost during the dark ages)
+- Kelly: More Than My Share of it All by Kelly Johnson (auto/bio)
+- Despair by Vladimir Nabokov
+
 
 My general background:
 - BA in Computer Science from Middlebury College, with minors in Philosophy and German
